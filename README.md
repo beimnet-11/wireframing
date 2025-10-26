@@ -31,3 +31,19 @@ Wireframing offers several advantages in the software development process by pro
 - **Guides the Design Process**  
   Wireframes define the structure, layout, and functionality of a page or application early on.  
   *Example:* By planning the property listing page layout with image placement, booking details, and call-to-a
+## Real-World Wireframing Scenario
+
+### Scenario: Booking Flow in a Property Rental Platform
+
+During the design of the Airbnb Clone project, a low-fidelity wireframe was created for the booking flow, including property selection, date picking, and checkout.  
+
+**Usability Issues Identified:**  
+- The “Book Now” button was placed below a long property description, making it difficult for users to locate quickly.  
+- The calendar for selecting check-in and check-out dates was confusing, with no clear indication of available dates.  
+- Users had to scroll excessively to see payment options, potentially causing frustration.
+
+**Resolution:**  
+- The “Book Now” button was repositioned next to the property summary for immediate visibility.  
+- The calendar was redesigned in the wireframe to clearly highlight available dates and disable unavailable ones.  
+- Pay
+
