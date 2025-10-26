@@ -8,3 +8,11 @@ Wireframes are skeletal blueprints of a website or application that outline its 
 
 - **Navigation**  
   Represents menus, links, and buttons that allow users to move through the site or application.
+  ## Types of Wireframes
+
+Wireframes can be categorized based on their level of detail and fidelity:
+
+- **Low-Fidelity Wireframes**  
+  - Simple sketches or basic digital layouts that focus on the overall structure and placement of elements rather than visual details.  
+  - Typically used in the **early stages** of design to brainstorm ideas, explore layouts, and communicate concepts quickly
+
