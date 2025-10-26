@@ -16,3 +16,9 @@ Wireframes can be categorized based on their level of detail and fidelity:
   - Simple sketches or basic digital layouts that focus on the overall structure and placement of elements rather than visual details.  
   - Typically used in the **early stages** of design to brainstorm ideas, explore layouts, and communicate concepts quickly
 
+## Popular Wireframing Tools
+
+Several tools are commonly used for creating wireframes, each offering different features and levels of fidelity. Some popular options include:  
+
+- **Balsamiq** – Great for low-fidelity wireframes, quick sketches, and brainstorming ideas.  
+- **Adobe XD** – Use
