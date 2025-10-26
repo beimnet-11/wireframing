@@ -22,3 +22,12 @@ Several tools are commonly used for creating wireframes, each offering different
 
 - **Balsamiq** – Great for low-fidelity wireframes, quick sketches, and brainstorming ideas.  
 - **Adobe XD** – Use
+## Benefits of Wireframing
+
+Wireframing offers several advantages in the software development process by providing a clear visual guide before detailed design or coding begins.  
+
+### Key Benefits
+
+- **Guides the Design Process**  
+  Wireframes define the structure, layout, and functionality of a page or application early on.  
+  *Example:* By planning the property listing page layout with image placement, booking details, and call-to-a
